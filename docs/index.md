@@ -7,13 +7,13 @@ description: Welcome to my homepage
 
 # Welcome to my homepage
 
-## 📱 Full Stack Developer | Cloud Architect | Open Source Contributor
+## Full Stack Developer | Cloud Architect | Open Source Contributor
 
 I'm a passionate IT professional with expertise in building scalable applications, architecting cloud infrastructure, and driving technological innovation.
 
 
 
-## 🚀 Featured Skills
+## Featured Skills
 
 ```mermaid
 graph TD
@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-## 💼 Let's Connect!
+## Let's Connect!
 
 I'm always interested in discussing technology, collaborating on projects, or exploring new opportunities. Feel free to reach out through:
 
