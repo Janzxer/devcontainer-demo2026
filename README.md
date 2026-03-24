@@ -16,7 +16,6 @@ Courses that could be used to build this setup:
 * Basics of Python
 * Basics of Docker
 * Basics of Kubernetes (K3s and K3d)
-* 
 ...
 
 
