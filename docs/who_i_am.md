@@ -3,7 +3,7 @@ title: Me
 ---
 
 
-# Who I am? Tero Keso KUKKKUU
+# Who I am?
 
 
 ![ME](assets/images/placeholder.png "Placeholder image for me")
@@ -11,7 +11,7 @@ title: Me
 
 <br>
 
-Hello my name is Jari and I am a student at HAMK University of Applied Sciences. I am currently studying in the Information Technology program, specializing in Software Development. I have a strong passion for technology and programming, and I am eager to learn and grow in this field. I have experience in various programming languages and technologies, and I am always looking for new challenges and opportunities to expand my knowledge and skills. I am excited to be a part of the HAMK community and I look forward to connecting with fellow students and professionals in the IT industry.
+Hello my name is Lumi and I am a student at HAMK University of Applied Sciences. I am currently studying in the Information Technology program, specializing in Software Development. I have a strong passion for technology and programming, and I am eager to learn and grow in this field. I have experience in various programming languages and technologies, and I am always looking for new challenges and opportunities to expand my knowledge and skills. I am excited to be a part of the HAMK community and I look forward to connecting with fellow students and professionals in the IT industry.
 
 
 ## Past Experiences
