@@ -7,6 +7,8 @@ description: Welcome to my homepage
 
 # Welcome to my homepage
 
+C asema ei pidä tästä hommasta
+
 ## Full Stack Developer | Cloud Architect | Open Source Contributor
 
 I'm a passionate IT professional with expertise in building scalable applications, architecting cloud infrastructure, and driving technological innovation.
