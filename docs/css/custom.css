@@ -1,6 +1,6 @@
 /* HAMK branding fonts */
 @font-face {/* from the HAMK font .zip file */
-    font-family: 'TT Rounds Neue DemiBold';
+    font-family: 'Comic Sans MS Italic';
     src: url('../assets/fonts/tt_rounds_neue_demibold-webfont.woff2') format('woff2'),
          url('../assets/fonts/tt_rounds_neue_demibold-webfont.woff') format('woff');
     font-weight: normal;
@@ -8,7 +8,7 @@
 }
 
 @font-face {/* from the HAMK font .zip file */
-    font-family: 'TT Rounds Neue Condensed DemiBold';
+    font-family: 'Comic Sans MS Italic';
     src: url('../assets/fonts/tt_rounds_neue_condensed_demibold-webfont.woff2') format('woff2'),
          url('../assets/fonts/tt_rounds_neue_condensed_demibold-webfont.woff') format('woff');
     font-weight: normal;
@@ -16,8 +16,8 @@
 }
 
 :root {
-    --font-family-sans: 'Inter', Helvetica, Arial, sans-serif; /* from the hamkin-brandi page */
-    --font-family-serif: 'TT Rounds Neue DemiBold', 'Arial Rounded MT', serif; /* from the hamkin-brandi page */
+    --font-family-sans: Comic Sans MS Italic; /* from the hamkin-brandi page */
+    --font-family-serif: Comic Sans MS Italic; /* from the hamkin-brandi page */
 /* currently not works 
     --md-primary-fg-color:        #003755;
     --md-primary-fg-color--light: #7300F0; 
